@@ -37,8 +37,8 @@ p { text-align: center;
   .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid gray;
-    box-shadow: 5px 10px #667a80
+    border: 5px solid blue;
+    box-shadow: 5px 10px blue; 
   }
   .css{
     background-color: blue;
