@@ -1,21 +1,57 @@
-# Prework Study Guide Webpage
+# Study Guide for UNCC Bootcamp 
+## Joseph (Rhett) Roseman 
 
 ## Description
 
-This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
+- What was your motivation?
+To complete the prework study guide and learn some of the coding basics.
+- Why did you build this project? 
+To learn how to do the basics of what I may be doing when employed as a software developer.
+- What problem does it solve?
+Testing problem solving abilities when it comes to coding basics 
+
+- What did you learn?
+The basics of HTML, CSS, github, JavaScript and how to build a small simple unrefined webisite with the languages and how to connect them to a github repository. I also learned how to use Terminal on MacOS to switch, save and configure different branches in a repository.
+## Table of Contents (Optional)
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 ## Installation
 
-N/A
+What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+Provide instructions and examples for use. Include screenshots as needed.
+
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+
+![alt text](assets/images/screenshot.png)
 
 ## Credits
 
-N/A
+- N/A
 
 ## License
 
-Please refer to the LICENSE
+- MIT License
+
+
+## Badges
+- N/A
+
+## Features
+- N/A
+
+## How to Contribute
+- N/A 
+
+
+## Tests
+- N/A
