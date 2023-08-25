@@ -2,9 +2,6 @@
 ## Joseph (Rhett) Roseman 
 
 ## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - What was your motivation?
 To complete the prework study guide and learn some of the coding basics.
 - Why did you build this project? 
